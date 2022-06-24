@@ -1,8 +1,8 @@
 {
-  "name": "victor-hugo",
+  "name": "creastel-docs",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
+  "description": "Creastel Docs hosts documentation ot Creastel products.",
+  "repository": "creastel/creastel-docs-cms",
   "main": "index.js",
   "scripts": {
     "lint": "eslint src",

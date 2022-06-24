@@ -1,9 +1,32 @@
-baseurl = "/"
+baseURL = "/"
+theme = "creastel-pages"
 languageCode = "en-us"
 languageLang = "en"
-title = "Homepage"
+title = "Creastel Docs"
+defaultContentLanguage = "en"
+disableKinds = ["RSS"]
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[params]
+  disableHLJS = true
+  disableScrollBarStyle = true
+  description = "Creastel Docs"
+  author = "Creastel SAS"
+  displayFullLangName = true
+  [assets]
+    favicon = "static/images/favicon.ico"
+    favicon16x16 = "static/images/favicon.ico"
+    favicon32x32 = "static/images/favicon.ico"
+    apple_touch_icon = "static/images/logo512.png"
+    safari_pinned_tab = "static/images/logo512.png"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    [languages.en.taxonomies]
+      product = "products"
+  [languages.fr]
+    languageName = "Français"
+    weight = 1
+    [languages.fr.taxonomies]
+      product = "products"
