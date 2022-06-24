@@ -1,0 +1,3 @@
+[submodule "site/themes/creastel-pages"]
+	path = site/themes/creastel-pages
+	url = git@github.com:creastel/creastel-pages-hugo.git
