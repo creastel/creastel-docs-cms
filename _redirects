@@ -1,0 +1,4 @@
+# Redirects home page by language
+
+/ /fr 302 Language=fr-*
+/ /fr 302 Language=fr
