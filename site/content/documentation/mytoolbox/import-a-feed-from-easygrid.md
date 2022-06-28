@@ -12,3 +12,5 @@ translationKey: mytoolbox-import-feed-easygrid
 ### Step 1
 
 Open the app.
+
+{{< youtube dQw4w9WgXcQ >}}
