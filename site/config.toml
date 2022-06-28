@@ -19,6 +19,11 @@ disableKinds = ["RSS"]
     apple_touch_icon = "static/images/logo512.png"
     safari_pinned_tab = "static/images/logo512.png"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.en]
     languageName = "English"

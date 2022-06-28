@@ -15,3 +15,5 @@ translationKey: mytoolbox-import-feed
 You can import feed from Easygrid (file ending with: `.easygrid`) or MyToolbox (file ending with: `.feed`).
 
 Please, click on the button below to select the file you want to import:
+
+<button class="content-button-redirect">Test</button>
