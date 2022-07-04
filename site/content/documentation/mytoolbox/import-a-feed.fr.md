@@ -14,9 +14,13 @@ translationKey: mytoolbox-import-feed
 
 Vous pouvez importer un feed créé dans l'application Easygrid (nom de fichier finissant par: `.easygrid`) ou dans l'application MyToolbox (nom de fichier finissant par: `.feed`).
 
-Cliquez sur le lien correspondant au type de feed que vous voulez importé:
+Cliquez sur le lien correspondant au type de feed que vous voulez importer:
 
-<div class="side-to-side">
-    <a class="content-button-redirect" href="/fr/mytoolbox/import-a-feed/easygrid">Importer un feed depuis EasyGrid</a>
-    <a class="content-button-redirect" href="/fr/mytoolbox/import-a-feed/mytoolbox">Importer un feed depuis MyToolbox</a>
-</div>
+<a class="post-button" href="/fr/mytoolbox/import-a-feed/easygrid">
+    <span class="post-button-title">Importer un feed depuis EasyGrid</span>
+    <span class="post-button-description">Importer un feed depuis EasyGrid</span>
+</a>
+<a class="post-button" href="/fr/mytoolbox/import-a-feed/mytoolbox">
+    <span class="post-button-title">Importer un feed depuis MyToolbox</span>
+    <span class="post-button-description">Importer un feed depuis MyToolbox</span>
+</a>

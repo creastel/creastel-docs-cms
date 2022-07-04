@@ -16,7 +16,11 @@ You can import feed from Easygrid (file ending with: `.easygrid`) or MyToolbox (
 
 Please, click on the button below to select the file you want to import:
 
-<div class="side-to-side">
-    <a class="content-button-redirect" href="/mytoolbox/import-a-feed/easygrid">Import feed from EasyGrid</a>
-    <a class="content-button-redirect" href="/mytoolbox/import-a-feed/easygrid">Import feed from MyToolbox</a>
-</div>
+<a class="post-button" href="/mytoolbox/import-a-feed/easygrid">
+    <span class="post-button-title">Import feed from EasyGrid</span>
+    <span class="post-button-description">Import feed from EasyGrid</span>
+</a>
+<a class="post-button" href="/mytoolbox/import-a-feed/mytoolbox">
+    <span class="post-button-title">Import feed from MyToolbox</span>
+    <span class="post-button-description">Import feed from MyToolbox</span>
+</a>
