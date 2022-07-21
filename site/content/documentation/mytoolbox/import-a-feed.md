@@ -6,6 +6,8 @@ url: /products/mytoolbox/import-a-feed
 aliases:
     /mytoolbox/import-a-feed
     /mytoolbox/import-feed
+    /en/mytoolbox/import-a-feed
+    /en/mytoolbox/import-feed
 products: ['mytoolbox']
 translationKey: mytoolbox-import-feed
 ---

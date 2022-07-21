@@ -6,6 +6,8 @@ url: /products/mytoolbox/import-a-feed/easygrid
 aliases:
     /mytoolbox/import-a-feed/easygrid
     /mytoolbox/import-feed/easygrid
+    /en/mytoolbox/import-a-feed/easygrid
+    /en/mytoolbox/import-feed/easygrid
 translationKey: mytoolbox-import-feed-easygrid
 ---
 

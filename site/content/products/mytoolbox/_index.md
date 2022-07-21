@@ -4,4 +4,5 @@ description: "My Toolbox is an iOS mobile app developed by Creastel SAS to facil
 translationKey: mytoolbox
 aliases:
     /mytoolbox/
+    /en/mytoolbox/
 ---
