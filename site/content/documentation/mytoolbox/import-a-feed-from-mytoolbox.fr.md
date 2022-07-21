@@ -15,7 +15,7 @@ Ce tutoriel est disponible pour [iPhone ou iPad](#iphone-or-ipad) ou [MacOS](#ma
 
 #### Tutoriel vidéo
 
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube ONwyjovjnHg >}}
 
 #### Étapes
 
@@ -31,7 +31,7 @@ Ce tutoriel est disponible pour [iPhone ou iPad](#iphone-or-ipad) ou [MacOS](#ma
 
 #### Tutoriel vidéo
 
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube awPt1op-aB4 >}}
 
 #### Étapes
 

@@ -15,7 +15,7 @@ This tutorial is available for [iPhone or iPad](#iphone-or-ipad) or [MacOS](#mac
 
 #### Video tutorial
 
-{{< youtube dQw4w9WgXcQ >}}
+{{< youtube kDqkx5pSe0c >}}
 
 #### Steps
 
@@ -31,8 +31,7 @@ This tutorial is available for [iPhone or iPad](#iphone-or-ipad) or [MacOS](#mac
 
 #### Video tutorial
 
-{{< youtube dQw4w9WgXcQ >}}
-
+{{< youtube xp22J1HO20s >}}
 
 #### Steps
 
