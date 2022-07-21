@@ -1,7 +1,7 @@
 ---
 title: Import a feed
-date: 2022-06-08T14:25:13.819Z
-description: MyToolbox
+date: 2022-07-08T14:25:13.819Z
+description: MyToolbox allows you to collaborate and manage versions by exporting and importing feeds as files. This page explains how to import a feed.
 url: /products/mytoolbox/import-a-feed
 aliases:
     /mytoolbox/import-a-feed
@@ -10,17 +10,17 @@ products: ['mytoolbox']
 translationKey: mytoolbox-import-feed
 ---
 
-### Choose your platform
+## Choose your file type
 
-You can import feed from Easygrid (file ending with: `.easygrid`) or MyToolbox (file ending with: `.feed`).
+You can import a feed created in the app MyToolbox (file ending with: `.feed`) or Easygrid (file ending with: `.easygrid`).
 
 Please, click on the button below to select the file you want to import:
 
-<a class="post-button" href="/mytoolbox/import-a-feed/easygrid">
-    <span class="post-button-title">Import feed from EasyGrid</span>
-    <span class="post-button-description">Import feed from EasyGrid</span>
-</a>
 <a class="post-button" href="/mytoolbox/import-a-feed/mytoolbox">
     <span class="post-button-title">Import feed from MyToolbox</span>
-    <span class="post-button-description">Import feed from MyToolbox</span>
+    <span class="post-button-description">File ending with .feed</span>
+</a>
+<a class="post-button" href="/mytoolbox/import-a-feed/easygrid">
+    <span class="post-button-title">Import feed from Easygrid</span>
+    <span class="post-button-description">File ending with .easygrid</span>
 </a>
