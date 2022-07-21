@@ -9,6 +9,37 @@ aliases:
 translationKey: mytoolbox-import-feed-mytoolbox
 ---
 
-### Step 1
+This tutorial is available for [iPhone or iPad](#iphone-or-ipad) or [MacOS](#macos)
 
-Open the app.
+## iPhone or iPad
+
+#### Video tutorial
+
+{{< youtube dQw4w9WgXcQ >}}
+
+#### Steps
+
+- Open the app;
+- On the home page, click on the symbol `…` on the right of the section "Your Feed Previews";
+- Click on "Import a feed";
+- Select the feed in your files;
+- The feed is now added to your feeds list!
+
+> 💡 Tip: you can click on the `.feed` file in your File app to import it directly to MyToolbox.
+
+## MacOS
+
+#### Video tutorial
+
+{{< youtube dQw4w9WgXcQ >}}
+
+
+#### Steps
+
+- Open the app;
+- On the home page, click on the symbol `…` on the right of the section "Your Feed Previews";
+- Click on "Import a feed";
+- Select the feed in your files;
+- The feed is now added to your feeds list!
+
+> 💡 Tip: you can click or drag on the `.feed` file in your File app to import it directly to MyToolbox.

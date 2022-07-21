@@ -12,7 +12,7 @@ translationKey: mytoolbox-import-feed
 
 ## Choose your file type
 
-You can import a feed created in the app MyToolbox (file ending with: `.feed`) or Easygrid (file ending with: `.easygrid`).
+You can import a feed created in the app MyToolbox (file ending with: `.feed`) or Easygrid (file ending with: `.eagr`).
 
 Please, click on the button below to select the file you want to import:
 
@@ -22,5 +22,5 @@ Please, click on the button below to select the file you want to import:
 </a>
 <a class="post-button" href="/mytoolbox/import-a-feed/easygrid">
     <span class="post-button-title">Import feed from Easygrid</span>
-    <span class="post-button-description">File ending with .easygrid</span>
+    <span class="post-button-description">File ending with .eagr</span>
 </a>

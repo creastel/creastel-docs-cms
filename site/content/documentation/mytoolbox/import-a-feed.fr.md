@@ -12,7 +12,7 @@ translationKey: mytoolbox-import-feed
 
 ## Choisissez votre type de fichier
 
-Vous pouvez importer un feed créé dans l'application MyToolbox (fichier se terminant par : `.feed`) ou Easygrid (fichier se terminant par : `.easygrid`).
+Vous pouvez importer un feed créé dans l'application MyToolbox (fichier se terminant par : `.feed`) ou Easygrid (fichier se terminant par : `.eagr`).
 
 Veuillez cliquer sur le bouton ci-dessous pour sélectionner le fichier que vous souhaitez importer :
 
@@ -22,5 +22,5 @@ Veuillez cliquer sur le bouton ci-dessous pour sélectionner le fichier que vous
 </a>
 <a class="post-button" href="/fr/mytoolbox/import-a-feed/easygrid">
     <span class="post-button-title">Importer un feed depuis Easygrid</span>
-    <span class="post-button-description">Extension de fichier .easygrid</span>
+    <span class="post-button-description">Extension de fichier .eagr</span>
 </a>
