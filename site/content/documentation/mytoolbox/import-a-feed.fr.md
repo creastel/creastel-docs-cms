@@ -10,6 +10,10 @@ products: ['mytoolbox']
 translationKey: mytoolbox-import-feed
 ---
 
+## Exporter un feed
+
+Pour savoir comment exporter un feed depuis MyToolboox ou Easygrid, veuillez vous référer à cette page de documentation : [exporter un feed](/fr/mytoolbox/export-a-feed).
+
 ## Choisissez votre type de fichier
 
 Vous pouvez importer un feed créé dans l'application MyToolbox (fichier se terminant par : `.feed`) ou Easygrid (fichier se terminant par : `.eagr`).
