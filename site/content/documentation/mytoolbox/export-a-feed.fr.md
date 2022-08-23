@@ -21,6 +21,6 @@ Veuillez cliquer sur le bouton ci-dessous pour sélectionner l'application depui
     <span class="post-button-description">Extension de fichier .feed</span>
 </a>
 <a class="post-button" href="/fr/mytoolbox/export-a-feed/easygrid">
-    <span class="post-button-title">Exporter un feed depuis Easygrid</span>
+    <span class="post-button-title">Transférer un feed depuis Easygrid vers MyToolbox</span>
     <span class="post-button-description">Extension de fichier .eagr</span>
 </a>

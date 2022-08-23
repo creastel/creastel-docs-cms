@@ -23,6 +23,6 @@ Please, click on the button below to select the file you want to export:
     <span class="post-button-description">File ending with .feed</span>
 </a>
 <a class="post-button" href="/mytoolbox/export-a-feed/easygrid">
-    <span class="post-button-title">Export feed from Easygrid</span>
+    <span class="post-button-title">Transfer a feed from Easygrid to MyToolbox</span>
     <span class="post-button-description">File ending with .eagr</span>
 </a>
