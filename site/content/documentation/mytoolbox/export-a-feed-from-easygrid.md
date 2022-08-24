@@ -11,16 +11,16 @@ aliases:
 translationKey: mytoolbox-export-feed-easygrid
 ---
 
-Ce tutoriel est disponible pour [iPhone ou iPad](#iphone-or-ipad) ou [MacOS](#macos).
+This tutorial is available for [iPhone or iPad](#iphone-or-ipad) or [MacOS](#macos).
 
-## iPhone ou iPad
+## iPhone or iPad
 
-#### Tutoriel vidéo
+#### Video tuto
 
 {{< youtube ychNlenrA_E >}}
 
 ## MacOS
 
-#### Tutoriel vidéo
+#### Video tuto
 
 {{< youtube g3Jl-Z7Ifoo >}}
