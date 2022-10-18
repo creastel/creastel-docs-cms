@@ -1,5 +1,5 @@
 ---
-title: Exporter un feed
+title: Transférer un feed
 date: 2022-07-08T14:25:13.819Z
 description: MyToolbox vous permet de collaborer et de gérer des versions en exportant et en important des feeds dans des fichiers. Cette page vous explique comment exporter un feed depuis l'application.
 url: /fr/products/mytoolbox/export-a-feed

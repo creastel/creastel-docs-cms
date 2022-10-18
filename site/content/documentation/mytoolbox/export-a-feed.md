@@ -1,5 +1,5 @@
 ---
-title: Export a feed
+title: Transfer a feed
 date: 2022-07-08T14:25:13.819Z
 description: MyToolbox allows you to collaborate and manage versions by exporting and importing feeds into files. This page explains how to export a feed from the application.
 url: /products/mytoolbox/export-a-feed

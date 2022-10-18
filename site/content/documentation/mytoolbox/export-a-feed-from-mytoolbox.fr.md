@@ -1,5 +1,5 @@
 ---
-title: Exporter un feed depuis MyToolbox
+title: Transférer un feed depuis MyToolbox
 date: 2022-06-08T14:25:13.819Z
 description:
 url: /fr/products/mytoolbox/export-a-feed/mytoolbox

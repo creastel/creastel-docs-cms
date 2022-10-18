@@ -1,5 +1,5 @@
 ---
-title: Export a feed from MyToolbox
+title: Transfer a feed from MyToolbox
 date: 2022-06-08T14:25:13.819Z
 description:
 url: /products/mytoolbox/export-a-feed/mytoolbox
