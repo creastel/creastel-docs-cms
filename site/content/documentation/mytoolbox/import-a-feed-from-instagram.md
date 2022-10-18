@@ -12,7 +12,7 @@ products: ['mytoolbox']
 translationKey: mytoolbox-import-feed-instagram
 ---
 
-This tutorial is available for [iPhone or iPad](#iphone-or-ipad) or [MacOS](#macos).
+This tutorial is available for iPhone, iPad and MacOS.
 
 ## iPhone, iPad and MacOS
 
