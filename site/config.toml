@@ -35,3 +35,9 @@ disableKinds = ["RSS"]
     weight = 1
     [languages.fr.taxonomies]
       product = "products"
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 10
